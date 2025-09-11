@@ -15,7 +15,7 @@ Além disso, foi desenvolvido um **diagrama de relacionamento** para representar
 ---
 
 ## 🛠 Tecnologias Utilizadas
-- **MySQL** (ou PostgreSQL, se aplicável)  
+- **MySQL** 
 - SQL para definição e manipulação de dados  
 
 ---
